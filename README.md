@@ -31,6 +31,6 @@
 
 <p>Good judgment comes from experience, but experience comes from bad judgment</p>
 <p>Buy me a coffee~</p>
-<a href="https://www.buymeacoffee.com/Bayashat" target="_blank" rel="noreferrer nofollow">
+<a href="https://www.buymeacoffee.com/BayashatT" target="_blank" rel="noreferrer nofollow">
   <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
