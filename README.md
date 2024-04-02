@@ -5,7 +5,7 @@
 </h1>
 
 - 🚩 &nbsp; I’m a software engineer
-- 💻 &nbsp; I’m currently **Open to work**
+- 💻 &nbsp; I’m currently **Open To Work**
 - 🌱 &nbsp; I’m currently learning `Django`
 - 🔭 &nbsp; Most of my projects are available on [Github](https://github.com/Bayashat?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to talk
@@ -18,10 +18,10 @@
 ## Skills
 
 <a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></a>
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="./assets/python.svg"></a>
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png"></a>
 <a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="PostgreSQL" height ="42px"  src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png"> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img align="left" alt="Django" height ="42px" src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png"></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img align="left" alt="FastAPI" height ="42px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></a>
 
 <br>
 
