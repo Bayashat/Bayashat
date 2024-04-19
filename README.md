@@ -5,8 +5,8 @@
 </h1>
 
 - 🚩 &nbsp; I’m a software engineer
-- 💻 &nbsp; I’m currently **Open To Work**
-- 🌱 &nbsp; I’m currently learning `Django`
+- 💻 &nbsp; I’m am currently **interning at EPAM Systems, working with Python**
+- 🌱 &nbsp; I’m currently learning `Django Rest Framework`
 - 🔭 &nbsp; Most of my projects are available on [Github](https://github.com/Bayashat?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to talk
 - 📝 &nbsp; Checkout my [resume](https://www.linkedin.com/in/bayashat/)
