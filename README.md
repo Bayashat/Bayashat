@@ -6,7 +6,7 @@
 
 - 🚩 &nbsp; I’m a software engineer
 - 💻 &nbsp; I’m currently **a Junior Software Engineer Trainee at [EPAM Systems](www.epam.com), working with Python**
-- 🌱 &nbsp; I’m currently learning `Django Rest Framework`
+- 🌱 &nbsp; I’m currently learning `AWS`
 - 🔭 &nbsp; Most of my projects are available on [Github](https://github.com/Bayashat?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to talk. [Telegram](https://t.me/bayashat) 
 - 📝 &nbsp; Checkout my [resume](https://www.linkedin.com/in/bayashat/)
