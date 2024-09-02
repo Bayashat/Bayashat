@@ -4,8 +4,8 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=Bayashat" alt="Github page views" />
 </h1>
 
-- 🚩 &nbsp; I’m a software engineer
-- 💻 &nbsp; I’m currently **a Junior Software Engineer Trainee at [EPAM Systems](https://www.epam.com), working with Python**
+- 🚩 &nbsp; I’m a Software Engineer
+- 💻 &nbsp; I’m currently **a Backend Engineer at [EPAM Systems](https://www.epam.com), working with Python and AWS**
 - 🌱 &nbsp; I’m currently learning `AWS`
 - 🔭 &nbsp; Most of my projects are available on [Github](https://github.com/Bayashat?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to talk. [Telegram](https://t.me/bayashat) 
