@@ -6,7 +6,7 @@
 
 - 🚩 &nbsp; I’m a Software Engineer
 - 💻 &nbsp; I’m currently working as **Junior Software Engineer at [EPAM Systems](https://www.epam.com), working with Python and AWS**
-- 🌱 &nbsp; I’m currently learning `AWS`
+- 🌱 &nbsp; I’m currently learning `Unix Shell` and `Git Commands`
 - 🔭 &nbsp; Most of my projects are available on [Github](https://github.com/Bayashat?tab=repositories)
 - 💬 &nbsp; Ask me about anything tech related, I am happy to talk. [Telegram](https://t.me/bayashat) 
 - 📝 &nbsp; Checkout my [resume](https://www.linkedin.com/in/bayashat/)
