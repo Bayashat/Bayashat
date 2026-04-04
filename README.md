@@ -13,7 +13,7 @@
 
 <br>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Bayashat&rank=SECRET,SSS,SS,S,AAA,AA,A&margin-w=15&margin-h=15&theme=algolia)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Skills
 
