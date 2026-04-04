@@ -22,7 +22,7 @@
 <a href="https://www.postgresql.org/" target="_blank"> <img align="left" alt="PostgreSQL" height ="42px"  src="https://www.postgresql.org/media/img/about/press/elephant.png"> </a>
 <a href="https://www.djangoproject.com/" target="_blank"> <img align="left" alt="Django" height ="42px" src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png"></a>
 <a href="https://fastapi.tiangolo.com/" target="_blank"><img align="left" alt="FastAPI" height ="42px" src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png"></a>
-<a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2xQcwKitRgXfqdi34DYlocPSEXD2G2zZipg&s"></a>
+<a href="https://aws.amazon.com/" target="_blank"><img align="left" alt="AWS" height ="42px" src="https://miro.medium.com/1*neG4D9C8UcJvNn6bverfIA.png"></a>
 <br>
 
 ---
